@@ -1,4 +1,4 @@
-import Header from '../components/Header'
+import Header from 'react'
 
 export default function Home() {
   const [nome, setNome] = useState('')
